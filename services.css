@@ -1,0 +1,132 @@
+#a {
+	font-size: 70px;
+	font-weight: bold;
+
+	
+}
+
+#p {
+	padding-top: 50px;
+	
+	font-size: 20px;
+}
+
+#hed {
+	background-image: url("communication-contact-conversation-33999.jpg");
+	background-attachment: fixed;
+	padding-bottom: 220px;
+}
+
+#con {
+	margin-top: 50px;
+
+}
+#form {
+	padding-bottom: 10px;
+}
+
+#we {
+	height: 48px;
+	width: 600px;
+	text-align: center;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-left: 150px;
+}
+
+#con {
+	padding-left: 100px;
+}
+
+#pad {
+	padding-top: 50px;
+}
+
+#card {
+	background-image: url("access-adult-blur-261628 (1).jpg");
+}
+
+
+#card2 {
+	background-image: url("apple-desk-internet-209151.jpg");
+}
+
+#card3 {
+	background-image: url("blur-close-up-device-442576.jpg");
+}
+
+#pcard {
+	padding-top: 732px;
+	
+
+}
+
+#pcard2 {
+	padding-top: 736px;
+}
+
+#b {
+	background-color: skyblue;
+	padding-top: 20px;
+	padding-bottom: 5px;
+
+}
+#bd {
+	margin-right: 100px;
+}
+#fot{
+	text-align: center;
+	
+}
+
+h1 {
+	padding-bottom: 50px;
+}
+
+#sec2 {
+	background-image: url("black-background-chance-close-up-1111597.jpg");
+	padding-bottom: 40px;
+}
+ 
+#sec3 {
+	background-image: url("abstract-art-background-2450294.jpg");
+	background-attachment: fixed;
+	padding-bottom: 40px;
+
+}
+
+#sec4 {
+	background-image: url("black-and-white-gray-grey-1050305.jpg");
+	padding-bottom: 30px;
+}
+
+#sec5 {
+	background-image: url("blur-blurred-background-colors-754082.jpg");
+	padding-bottom: 30px;
+}
+
+#btnn {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#navbarNav {
+	display: flex;
+  justify-content: left;
+}
+
+#navtext {
+	margin-left: 50px;
+	color: black;
+	font-size: 19px;
+	font-weight: bold;
+}
+ 
+#cr {
+	color: black;
+	font-weight: bold;
+}
+
+#h6 {
+	font-size: 10px;
+}

@@ -1,0 +1,100 @@
+#a {
+	background-image: url();
+	padding-bottom: 50px;
+}
+
+#pro {
+	margin-bottom: 50px
+}
+
+#sec1 {
+	background-image: url("blur-bottle-bright-273238.jpg");
+}
+
+#b {
+	font-weight: bold;
+	font-size: 20px;
+	padding-top: 30px;
+	padding-left: 30px;
+}
+
+#sec2 {
+	background-image: url("code-coding-css-92905.jpg");
+}
+
+#wh {
+	color: white;
+	font-size: 20px;
+}
+
+.new4 {
+	width: 12%;
+	border: 0.8px solid blue
+
+}
+#hr {
+
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#c {
+	font-size: 18px;
+}
+
+#box {
+	border: 2px solid grey;
+	background-color: grey;
+	margin-top: 50px;
+}
+
+#us {
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#las {
+	font-size: 20px;
+	line-height: 40px;
+}
+
+#cr{
+	color: white;
+	font-weight: bold;
+
+}
+
+#navbarNav {
+	display: flex;
+  justify-content: left;
+}
+
+#navtext {
+	margin-left: 50px;
+	color: white;
+	font-size: 19px;
+	font-weight: bold;
+	float: right;
+}
+
+
+#sec3 {
+	background-image: url("aeroplane-aircraft-airplane-2088203.jpg");
+}
+
+#bd {
+	margin-right: 100px;
+}
+#fot{
+	text-align: center;
+	
+}
+#e {
+	background-color: skyblue;
+	padding-top: 20px;
+	padding-bottom: 5px;
+}
+
+#h6 {
+	font-size: 10px;
+}
